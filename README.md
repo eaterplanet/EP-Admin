@@ -8,16 +8,16 @@
 <h1 align="center">社区团购后端/CMS</h1>
 <p align="center">
   <a href="http://wpa.qq.com/msgrd?v=3&uin=142997&site=qq&menu=yes"><img alt="Albert.Z" src="https://img.shields.io/badge/Author-Albert.Z-blue.svg"></a>
-  <a href="https://github.com/Dejavu-Tech/EP-Admin/License"><img alt="GPL-v3协议" src="https://img.shields.io/badge/GPL-v3-red"></a>
-  <a href="https://github.com/Dejavu-Tech/EP-Admin/releases"><img alt="最新版本" src="https://img.shields.io/badge/version-5.6.0-brightgreen"></a>
-  <a href="https://img.shields.io/github/stars/Dejavu-Tech/EP-Admin.svg?style=social&label=Stars"><img alt="笔芯" src="https://img.shields.io/github/stars/Dejavu-Tech/EP-Admin.svg?style=social&label=Stars"></a>
+  <a href="https://github.com/eaterplanet/EP-Admin/License"><img alt="GPL-v3协议" src="https://img.shields.io/badge/GPL-v3-red"></a>
+  <a href="https://github.com/eaterplanet/EP-Admin/releases"><img alt="最新版本" src="https://img.shields.io/badge/version-5.6.0-brightgreen"></a>
+  <a href="https://img.shields.io/github/stars/eaterplanet/EP-Admin.svg?style=social&label=Stars"><img alt="笔芯" src="https://img.shields.io/github/stars/eaterplanet/EP-Admin.svg?style=social&label=Stars"></a>
 
   <br/>
-  <a href="https://github.com/Dejavu-Tech/EP-Admin/issues/new/choose">报告 Bug</a>&nbsp;·&nbsp;<a href="https://github.com/Dejavu-Tech/EP-Admin/new/choose">性能优化建议</a>
+  <a href="https://github.com/eaterplanet/EP-Admin/issues/new/choose">报告 Bug</a>&nbsp;·&nbsp;<a href="https://github.com/eaterplanet/EP-Admin/new/choose">性能优化建议</a>
 </p>
 
 
-## 🌻前端传送门 ╰( ´・ω・)つ──☆👉🏻️➡<a href="https://github.com/Dejavu-Tech/EP-WechatApp">EP-WechatApp</a>
+## 🌻前端传送门 ╰( ´・ω・)つ──☆👉🏻️➡<a href="https://github.com/eaterplanet/EP-WechatApp">EP-WechatApp</a>
 
 
 ## 💾组织结构
@@ -104,13 +104,13 @@ yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_
 - 选择PHP版本为`5.6`,MySQL版本>=`5.6`
 - 网站目录上传本仓库源码或
 ````
-git@github.com:Dejavu-Tech/EP-Admin.git
+git@github.com:eaterplanet/EP-Admin.git
 ````
 - 打开浏览器输入网址或IP地址开始安装即可
 ### ⭕正常商用运营请参阅<a href="https://docs.ch871.com">部署文档</a>
 
 ## 🔎文档源码
-<a target="_blank" href="https://github.com/Dejavu-Tech/EP-Documents">EP-Documents</a>
+<a target="_blank" href="https://github.com/eaterplanet/EP-Documents">EP-Documents</a>
 
 
 ## 🔨版本说明
@@ -119,10 +119,12 @@ git@github.com:Dejavu-Tech/EP-Admin.git
 ## 👽联系
 全功能版商用授权及部署请联系
 - QQ:`142997`<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=142997&site=qq&menu=yes"><img width=80px align=center src="https://image.ch871.com/qq-contact .png"/></a>
-- 企业微信:  
-<img src="https://image.ch871.com/qywx-contact .png" width="300px" />
+- 微信:
+  <img src="https://image.ch871.com/wechat.jpg" width="300px" />
+- ~~企微已满勿加~~
+  <img src="https://image.ch871.com/qywx-contact .png" width="300px" />
 
-## 📜许可证 [GPL-3.0](https://github.com/Dejavu-Tech/EP-Admin/License)
+## 📜许可证 [GPL-3.0](https://github.com/eaterplanet/EP-Admin/License)
 
 ## 🌎️软件著作权及其他版权所有
 <img src="https://image.ch871.com/rexotech.png" width="25px" align="left"/> 

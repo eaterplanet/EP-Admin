@@ -6,7 +6,7 @@
  * ==========================================================================
  * @link      https://e-p.cloud/
  * @copyright Copyright (c) 2019-2024 Dejavu Tech.
- * @license   https://github.com/Dejavu-Tech/EP-Admin/blob/main/LICENSE
+ * @license   https://github.com/eaterplanet/EP-Admin/blob/main/LICENSE
  * ==========================================================================
  *
  * @author    Albert.Z
